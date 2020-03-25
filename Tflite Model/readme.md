@@ -1,1 +1,1 @@
-
+Model for garbage detection
